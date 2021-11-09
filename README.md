@@ -1,4 +1,4 @@
-# Curso JavaScript
+# Curso de JavaScript
 
 <br />
 
@@ -13,18 +13,18 @@ npm install -g live-server
 ### Rodando o projeto no browser
 
 ```sh
-npx live-server ./projeto-nome
+npx live-server ./projeto-nome-do-projeto
 ```
 
 ## Pojetos
 
-### Uma Calculadora
+### Calculadora
 
 > [Projeto Calculadora](./projeto-calculadora/README.md)
 
 <br>
 
-### Crud Usuários
+### Crud de Usuários
 
 > [Projeto Usuários](./projeto-usuarios/README.md)
 
